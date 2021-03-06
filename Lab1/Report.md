@@ -1,6 +1,6 @@
 # Lab 1 - 框架及工具入门示例
 
-
+![Picture](https://github.com/Stonerlei/imgs_AISystem/tree/master/Lab1/Graph.png)
 
 ### 具体步骤
 
