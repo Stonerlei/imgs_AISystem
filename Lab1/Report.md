@@ -1,6 +1,7 @@
 # Lab 1 - 框架及工具入门示例
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ![Picture](https://github.com/Stonerlei/imgs_AISystem/tree/master/Lab1/Graph.png)
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### 具体步骤
 
