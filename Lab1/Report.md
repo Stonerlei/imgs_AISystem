@@ -36,7 +36,7 @@
 |<br/>&nbsp;<br/>16<br/>&nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![picture](16.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ||
 |<br/>&nbsp;<br/>64<br/>&nbsp;<br/>&nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![picture](64.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ||
 |||
-<br/>
-### 实验结果分析<br/>
+
+### 实验结果分析
    由上表可知（为方便观察，Loss被放大了10^4倍），当Batch Size逐渐增大时，Loss的起伏逐渐变小。这是因为当Batch变大时，其就包含了总数据集的一个更大的子集，而大的子集往往更能反映出总体的特征分布，从而使得训练中的模型在大的Batch上表现较稳定。反之，当Batch较小时，Batch的特征分布将有更大可能性与模型已经遇到的样本分布有着较大的差异，从而使得模型在训练过程中表现不稳定。<br/>
    同时，当Batch Size较小时，程序运行总时间会大幅增加。这是因为小的Batch（尤其当Batch Size=1时）不能很好地利用CPU的Vector Machine等并行运算机制，从而降低了计算效率。
