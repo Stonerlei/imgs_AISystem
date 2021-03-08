@@ -32,8 +32,8 @@
 |||
 |------|--------------|
 |批大小 &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 结果比较 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|<br/>&nbsp;<br/>1<br/>&nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![picture](https://github.com/Stonerlei/imgs_AISystem/blob/master/Lab1/1.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ||
-|<br/>&nbsp;<br/>16<br/>&nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![picture](https://github.com/Stonerlei/imgs_AISystem/blob/master/Lab1/16.png) ![picture](https://github.com/Stonerlei/imgs_AISystem/blob/master/Lab1/16_Operations)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ||
+|<br/>&nbsp;<br/>1<br/>&nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![picture](https://github.com/Stonerlei/imgs_AISystem/blob/master/Lab1/1.png) ![picture](https://github.com/Stonerlei/imgs_AISystem/blob/master/Lab1/1_Operations.png)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ||
+|<br/>&nbsp;<br/>16<br/>&nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![picture](https://github.com/Stonerlei/imgs_AISystem/blob/master/Lab1/16.png) ![picture](https://github.com/Stonerlei/imgs_AISystem/blob/master/Lab1/16_Operations.png)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ||
 |<br/>&nbsp;<br/>64<br/>&nbsp;<br/>&nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![picture](https://github.com/Stonerlei/imgs_AISystem/blob/master/Lab1/64.png)![picture](https://github.com/Stonerlei/imgs_AISystem/blob/master/Lab1/Operations.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ||
 |||
 3. 使用GPU时实验结果
